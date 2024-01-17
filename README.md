@@ -33,28 +33,26 @@ The primary objective of the Cat API Project is to provide a practical example o
 Running Instructions
 
   1. Display Images:
-
-Display random cute cat images from an online API. 
+  - Display random cute cat images from an online API. 
 
   2. Add to Favorites:
+  - A heart symbol will be displayed to the user as an indicator to add the cat image as a favorite. 
 
-A heart symbol will be displayed to the user as an indicator to add the cat image as a favorite. 
-
-Click on it to save the current image as a favorite.
+  - Click on it to save the current image as a favorite.
 
   3. View Favorite Images:
 
-Navigate to the Favorites section in the UI using the ‘View Favorites’ button.
+  - Navigate to the Favorites section in the UI using the ‘View Favorites’ button.
 
-Here, you can see a list of all the images you've marked as favorites.
+  - Here, you can see a list of all the images you've marked as favorites.
 
   4. View Next Image:
 
-After adding to favorites, use the "Next Image" button to cycle to the next image in the sequence.
+  - After adding to favorites, use the "Next Image" button to cycle to the next image in the sequence.
 
-This allows users to easily explore and interact with multiple cat images.
+  - This allows users to easily explore and interact with multiple cat images.
 
   5. Repeat the Process:
 
-The user can continue the cycle by repeatedly clicking the "Next Image" button to view more images, add to favorites, and revisit their favorite images.
+  - The user can continue the cycle by repeatedly clicking the "Next Image" button to view more images, add to favorites, and revisit their favorite images.
 

@@ -20,15 +20,15 @@ Objective:
 
 The primary objective of the Cat API Project is to provide a practical example of building a Flutter app that interacts with an external API to retrieve and showcase cat images. The project demonstrates proficiency in the following key areas:
 
-  1. Widget Usage:Utilizing Flutter widgets to design a user interface that displays a list of cat images.
+  1. Widget Usage: Utilizing Flutter widgets to design a user interface that displays a list of cat images.
 
-  2. HTTP Library Integration:Incorporating the HTTP library to fetch data from an online API: https://api.thecatapi.com/v1
+  2. HTTP Library Integration: Incorporating the HTTP library to fetch data from an online API: https://api.thecatapi.com/v1
 
-  3. Page Routing:Implementing page routing to allow users to navigate seamlessly between different sections or pages of the app.
+  3. Page Routing: Implementing page routing to allow users to navigate seamlessly between different sections or pages of the app.
 
   4. GitHub Repository Management: Creating a GitHub repository to host and version control the project files.
 
-  5. Documentation:Providing clear and concise documentation (README.txt) to guide others on how to compile, run, and configure the project.
+  5. Documentation: Providing clear and concise documentation (README.txt) to guide others on how to compile, run, and configure the project.
 
 Running Instructions
 

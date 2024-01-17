@@ -14,13 +14,10 @@ Project Explanation
 
 Summary:
 
-This application or feature allows users to interact with a collection of cat images in a structured manner.
-
-Users can click on an image to view detailed information such as breed, age, and description.
-
-Additionally, they have the option to mark images as favorites, which can later be viewed in a dedicated Favorites section.
-
-The functionality includes navigating through images using a "Next" button, providing a seamless experience for users to explore, view details, add to favorites, and revisit their favorite cat images.
+This application or feature allows users to interact with a collection of cat images in a structured manner. 
+Users have the option to mark images as favorites, which can later be viewed in a dedicated Favorites section. 
+The functionality includes navigating through images using a "Next Image" button, 
+providing a seamless experience for users to explore, add to favorites, and revisit their favorite cat images.
 
 Objective:
 
@@ -38,30 +35,29 @@ Documentation:Providing clear and concise documentation (README.txt) to guide ot
 
 Running Instructions
 
-View Image Details:
+Display Images:
 
-Click on the image to open a detailed view.
-
-Information such as cat breed, age, and description will be displayed.
+Display random cute cat images from an online API. 
 
 Add to Favorites:
 
-A heart symbol will be displayed to the user as an indicator to add the cat image as a favourite. 
+A heart symbol will be displayed to the user as an indicator to add the cat image as a favorite. 
 
 Click on it to save the current image as a favorite.
 
 View Favorite Images:
 
-Navigate to the Favorites section in the UI.
+Navigate to the Favorites section in the UI using the ‘View Favorites’ button.
 
-Here, you can see a grid or list of all the images you've marked as favorites.
+Here, you can see a list of all the images you've marked as favorites.
 
 View Next Image:
 
-After viewing details or adding to favorites, use the "Next" button to cycle to the next image in the sequence.
+After adding to favorites, use the "Next Image" button to cycle to the next image in the sequence.
 
 This allows users to easily explore and interact with multiple cat images.
 
 Repeat the Process:
 
-The user can continue the cycle by repeatedly clicking the "Next" button to view more images, see details, add to favorites, and revisit their favorite images.
+The user can continue the cycle by repeatedly clicking the "Next Image" button to view more images, add to favorites, and revisit their favorite images.
+

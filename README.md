@@ -1,4 +1,4 @@
-# CSCI-4311-Cat-API-Goup-6
+# CSCI4311-CATture-Goup6
 
 Project Members
 

@@ -2,21 +2,21 @@
 
 Project Members
 
-Farahiyyah binti Munawwar Hidayat (2116780)\n
-Hanis Karmila binti Suhaimi (2113412)\n
-Husna Ezzah binti Mohd Fakhrurrazi (2110942)\n
+Farahiyyah binti Munawwar Hidayat (2116780)
+Hanis Karmila binti Suhaimi (2113412)
+Husna Ezzah binti Mohd Fakhrurrazi (2110942)
 Farah Izzah Wong binti Abdul Rahman Wong (2111188)
 
 Project Explanation
 
 Summary:
-This application or feature allows users to interact with a collection of cat images in a structured manner.\n
-Users can click on an image to view detailed information such as breed, age, and description.\n
-Additionally, they have the option to mark images as favorites, which can later be viewed in a dedicated Favorites section.\n
+This application or feature allows users to interact with a collection of cat images in a structured manner.
+Users can click on an image to view detailed information such as breed, age, and description.
+Additionally, they have the option to mark images as favorites, which can later be viewed in a dedicated Favorites section.
 The functionality includes navigating through images using a "Next" button, providing a seamless experience for users to explore, view details, add to favorites, and revisit their favorite cat images.
 
 Objective:
-The primary objective of the Cat API Project is to provide a practical example of building a Flutter app that interacts with an external API to retrieve and showcase cat images. The project demonstrates proficiency in the following key areas:\n
+The primary objective of the Cat API Project is to provide a practical example of building a Flutter app that interacts with an external API to retrieve and showcase cat images. The project demonstrates proficiency in the following key areas:
 Widget Usage:
 Utilizing Flutter widgets to design a user interface that displays a list of cat images.\n
 HTTP Library Integration:

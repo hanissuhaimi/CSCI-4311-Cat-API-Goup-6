@@ -1,4 +1,4 @@
-# CSCI4311-CATture-Goup6
+# CSCI4311-CATture-Group6
 
 Project Members
 
